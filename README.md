@@ -1,1 +1,1 @@
-This is a test for a web page developed in Streamlit
+This is a test for a web app developed in Streamlit
